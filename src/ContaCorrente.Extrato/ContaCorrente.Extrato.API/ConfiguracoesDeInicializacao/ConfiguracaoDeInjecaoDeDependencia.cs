@@ -14,16 +14,13 @@ namespace ContaCorrente.Extrato.API.ConfiguracoesDeInicializacao
     {
         public static void Configurar(IServiceCollection services, IConfiguration configuration)
         {
+            services.AddSingleton(configuration);
             services.AddScoped<IConsultaDeExtrato, ConsultaDeExtrato>();
             services.AddScoped<IExtratoDeContaCorrente, ExtratoDeContaCorrente>();
             services.AddScoped<ICacheAdaptador, CacheAdaptador>();
             services.AddScoped<IExtratoRepositorio, ExtratoRepositorio>();
 
-            services.AddSingleton(configuration);
-            services.AddScoped<IDbConnection>(d =>
-            {
-                return new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ExtratolDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
-            });
+            services.AddScoped<IDbConnection>(d => new SqlConnection(configuration.GetConnectionString("SqlConnection")));
         }
     }
 }

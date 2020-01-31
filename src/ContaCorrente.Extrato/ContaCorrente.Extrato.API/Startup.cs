@@ -30,11 +30,11 @@ namespace ContaCorrente.Extrato.API
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
-        {
+        { 
             ConfiguracaoDoMVC.Configurar(services);
             ConfiguracaoDeInjecaoDeDependencia.Configurar(services, Configuration);
             ConfiguracaoDoSwagger.Configurar(services);
-            ConfiguracaoDoRedis.Configurar(services);
+            ConfiguracaoDoRedis.Configurar(services, Configuration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
