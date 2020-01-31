@@ -12,12 +12,10 @@ namespace ContaCorrente.Extrato.Infra.CacheAdaptador
     {
         private readonly IEasyCachingProvider _cachingProvider;
         private readonly IEasyCachingProviderFactory _cachingProviderFactory;
-        private readonly ILogger _logger;
 
-        public CacheAdaptador(IEasyCachingProviderFactory cachingProviderFactory, ILogger logger)
+        public CacheAdaptador(IEasyCachingProviderFactory cachingProviderFactory)
         {
             _cachingProviderFactory = cachingProviderFactory;
-            _logger = logger;
             _cachingProvider = _cachingProviderFactory.GetCachingProvider("Redis1");
         }
 
@@ -30,7 +28,7 @@ namespace ContaCorrente.Extrato.Infra.CacheAdaptador
             }
             catch (Exception e)
             {
-                _logger.LogError(e.Message);
+                Console.Write(e);
                 return null;
             }
         }

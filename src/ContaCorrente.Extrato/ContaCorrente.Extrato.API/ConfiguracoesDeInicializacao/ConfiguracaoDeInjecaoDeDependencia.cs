@@ -7,6 +7,7 @@ using ContaCorrente.Extrato.Infra.CacheAdaptador;
 using ContaCorrente.Extrato.Infra.ExtratoRepositorio;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
 
 namespace ContaCorrente.Extrato.API.ConfiguracoesDeInicializacao
 {
@@ -21,6 +22,7 @@ namespace ContaCorrente.Extrato.API.ConfiguracoesDeInicializacao
             services.AddScoped<IExtratoRepositorio, ExtratoRepositorio>();
 
             services.AddScoped<IDbConnection>(d => new SqlConnection(configuration.GetConnectionString("SqlConnection")));
+
         }
     }
 }
