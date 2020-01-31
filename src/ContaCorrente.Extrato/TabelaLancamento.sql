@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Lanacamentos]
+﻿CREATE TABLE [dbo].[Lancamentos]
 (
 	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
     [IdCliente] UNIQUEIDENTIFIER NOT NULL, 
