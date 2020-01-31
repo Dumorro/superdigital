@@ -1,0 +1,12 @@
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores\bin\Debug\netcoreapp2.2\ContaCorrente.Extrato.Processadores.deps.json
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores\bin\Debug\netcoreapp2.2\ContaCorrente.Extrato.Processadores.runtimeconfig.json
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores\bin\Debug\netcoreapp2.2\ContaCorrente.Extrato.Processadores.runtimeconfig.dev.json
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores\bin\Debug\netcoreapp2.2\ContaCorrente.Extrato.Processadores.dll
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores\bin\Debug\netcoreapp2.2\ContaCorrente.Extrato.Processadores.pdb
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores\obj\Debug\netcoreapp2.2\ContaCorrente.Extrato.Processadores.csprojAssemblyReference.cache
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores\obj\Debug\netcoreapp2.2\ContaCorrente.Extrato.Processadores.AssemblyInfoInputs.cache
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores\obj\Debug\netcoreapp2.2\ContaCorrente.Extrato.Processadores.AssemblyInfo.cs
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores\obj\Debug\netcoreapp2.2\ContaCorrente.Extrato.Processadores.dll
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores\obj\Debug\netcoreapp2.2\ContaCorrente.Extrato.Processadores.pdb

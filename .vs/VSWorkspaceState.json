@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\Superdigital.ContaCorrente.Extrato.Processadores"
   ],
+  "SelectedNode": "\\src\\Superdigital.ContaCorrente.Extrato.Processadores",
   "PreviewInSolutionExplorer": false
 }
