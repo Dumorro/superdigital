@@ -1,5 +1,7 @@
-﻿using ContaCorrente.Extrato.TestesDeIntegracao.Contexto;
+﻿using ContaCorrente.Extrato.Aplicacao.Dtos;
+using ContaCorrente.Extrato.TestesDeIntegracao.Contexto;
 using FluentAssertions;
+using Newtonsoft.Json;
 using System.Net;
 using System.Threading.Tasks;
 using Xunit;
@@ -16,8 +18,12 @@ namespace ContaCorrente.Extrato.TestesDeIntegracao
             const string idCliente = "0796af9c-3347-4d7b-8607-a30d8bfd327c";
             var recurso = $"/api/extrato/{idCliente}";
             var resultado = await _contextoDeTeste.Client.GetAsync(recurso);
-
             resultado.StatusCode.Should().Be(HttpStatusCode.OK);
+
+            var conteudo = await resultado.Content.ReadAsStringAsync();
+
+            var extrato = JsonConvert.DeserializeObject<ExtratoDto>(conteudo);
+            extrato.Should().NotBeNull();
         }
     }
 }
