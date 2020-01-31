@@ -5,7 +5,6 @@ using ContaCorrente.Extrato.TestesDeUnidade.Dominio;
 using ExpectedObjects;
 using Moq;
 using System;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 using Xunit;
 

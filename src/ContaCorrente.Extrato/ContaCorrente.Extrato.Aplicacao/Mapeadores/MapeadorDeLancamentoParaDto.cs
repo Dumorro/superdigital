@@ -1,6 +1,5 @@
 ﻿using ContaCorrente.Extrato.Aplicacao.Dtos;
 using ContaCorrente.Extrato.Dominio.Entidades;
-using System;
 
 namespace ContaCorrente.Extrato.Aplicacao.Mapeadores
 {

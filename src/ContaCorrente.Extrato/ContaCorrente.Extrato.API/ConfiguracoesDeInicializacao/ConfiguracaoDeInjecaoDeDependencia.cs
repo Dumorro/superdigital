@@ -7,7 +7,6 @@ using ContaCorrente.Extrato.Infra.CacheAdaptador;
 using ContaCorrente.Extrato.Infra.ExtratoRepositorio;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
 
 namespace ContaCorrente.Extrato.API.ConfiguracoesDeInicializacao
 {

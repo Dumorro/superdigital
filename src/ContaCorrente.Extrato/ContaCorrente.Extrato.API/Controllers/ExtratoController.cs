@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Threading.Tasks;
-using ContaCorrente.Extrato.Aplicacao.Dtos;
 using ContaCorrente.Extrato.Aplicacao.Servicos;
 using Microsoft.AspNetCore.Mvc;
 

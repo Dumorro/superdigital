@@ -3,7 +3,6 @@ using ContaCorrente.Extrato.TestesDeUnidade.Dominio;
 using ExpectedObjects;
 using System;
 using System.Linq;
-using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using ContaCorrente.Extrato.Aplicacao.Mapeadores;
 using ContaCorrente.Extrato.Aplicacao.Servicos;

@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 using ContaCorrente.Extrato.Dominio.Adaptadores;
 using ContaCorrente.Extrato.Dominio.Entidades;
 using EasyCaching.Core;
-using Microsoft.Extensions.Logging;
 
 namespace ContaCorrente.Extrato.Infra.CacheAdaptador
 {

@@ -1,6 +1,5 @@
 ﻿using ContaCorrente.Extrato.Dominio.Enumeradores;
 using System;
-using ContaCorrente.Extrato.Dominio.Entidades;
 
 namespace ContaCorrente.Extrato.Aplicacao.Dtos
 {
