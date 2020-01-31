@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("dotnet-ContaCorrente.Extrato.Processadores-D91A78BD-E9B4-4EB9-9556-AA1AABF94C43")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContaCorrente.Extrato.Processadores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
