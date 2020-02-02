@@ -1,0 +1,390 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.TestesDeIntegracao\\ContaCorrente.Lacamentos.TestesDeIntegracao.csproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Aplicacao\\ContaCorrente.Lacamentos.Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Aplicacao\\ContaCorrente.Lacamentos.Aplicacao.csproj",
+        "projectName": "ContaCorrente.Lacamentos.Aplicacao",
+        "projectPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Aplicacao\\ContaCorrente.Lacamentos.Aplicacao.csproj",
+        "packagesPath": "C:\\Users\\BSI98919\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Aplicacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BSI98919\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Dominio\\ContaCorrente.Lacamentos.Dominio.csproj": {
+                "projectPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Dominio\\ContaCorrente.Lacamentos.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Dominio\\ContaCorrente.Lacamentos.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Dominio\\ContaCorrente.Lacamentos.Dominio.csproj",
+        "projectName": "ContaCorrente.Lacamentos.Dominio",
+        "projectPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Dominio\\ContaCorrente.Lacamentos.Dominio.csproj",
+        "packagesPath": "C:\\Users\\BSI98919\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BSI98919\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\\ContaCorrente.Lacamentos.Infra.Mensageria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\\ContaCorrente.Lacamentos.Infra.Mensageria.csproj",
+        "projectName": "ContaCorrente.Lacamentos.Infra.Mensageria",
+        "projectPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\\ContaCorrente.Lacamentos.Infra.Mensageria.csproj",
+        "packagesPath": "C:\\Users\\BSI98919\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BSI98919\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Dominio\\ContaCorrente.Lacamentos.Dominio.csproj": {
+                "projectPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Dominio\\ContaCorrente.Lacamentos.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Azure.ServiceBus": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "WindowsAzure.ServiceBus": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.TestesDeIntegracao\\ContaCorrente.Lacamentos.TestesDeIntegracao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.TestesDeIntegracao\\ContaCorrente.Lacamentos.TestesDeIntegracao.csproj",
+        "projectName": "ContaCorrente.Lacamentos.TestesDeIntegracao",
+        "projectPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.TestesDeIntegracao\\ContaCorrente.Lacamentos.TestesDeIntegracao.csproj",
+        "packagesPath": "C:\\Users\\BSI98919\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.TestesDeIntegracao\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BSI98919\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Aplicacao\\ContaCorrente.Lacamentos.Aplicacao.csproj": {
+                "projectPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Aplicacao\\ContaCorrente.Lacamentos.Aplicacao.csproj"
+              },
+              "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Api.csproj": {
+                "projectPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Api.csproj",
+        "projectName": "ContaCorrente.Lacamentos.Api",
+        "projectPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Api.csproj",
+        "packagesPath": "C:\\Users\\BSI98919\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BSI98919\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Aplicacao\\ContaCorrente.Lacamentos.Aplicacao.csproj": {
+                "projectPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Aplicacao\\ContaCorrente.Lacamentos.Aplicacao.csproj"
+              },
+              "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\\ContaCorrente.Lacamentos.Infra.Mensageria.csproj": {
+                "projectPath": "C:\\Dev\\Repos\\Estudo\\superdigital\\src\\ContaCorrente.Lacamentos\\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\\ContaCorrente.Lacamentos.Infra.Mensageria.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

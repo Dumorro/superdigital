@@ -3,7 +3,7 @@ using System;
 
 namespace ContaCorrente.Extrato.Processadores.Dominio.Entidade
 {
-    public class Lancamento
+    public class Lancamento : Mensagem
     {
         public Guid IdCliente { get; set; }
         public string ContaOrigem { get; set; }

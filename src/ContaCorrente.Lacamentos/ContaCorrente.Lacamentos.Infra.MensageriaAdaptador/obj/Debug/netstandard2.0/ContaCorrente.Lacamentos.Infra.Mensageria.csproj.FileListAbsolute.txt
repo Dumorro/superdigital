@@ -1,0 +1,11 @@
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\bin\Debug\netstandard2.0\ContaCorrente.Lacamentos.Infra.Mensageria.deps.json
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\bin\Debug\netstandard2.0\ContaCorrente.Lacamentos.Infra.Mensageria.dll
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\bin\Debug\netstandard2.0\ContaCorrente.Lacamentos.Infra.Mensageria.pdb
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\bin\Debug\netstandard2.0\ContaCorrente.Lacamentos.Dominio.dll
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\bin\Debug\netstandard2.0\ContaCorrente.Lacamentos.Dominio.pdb
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\obj\Debug\netstandard2.0\ContaCorrente.Lacamentos.Infra.Mensageria.csprojAssemblyReference.cache
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\obj\Debug\netstandard2.0\ContaCorrente.Lacamentos.Infra.Mensageria.AssemblyInfoInputs.cache
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\obj\Debug\netstandard2.0\ContaCorrente.Lacamentos.Infra.Mensageria.AssemblyInfo.cs
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\obj\Debug\netstandard2.0\ContaCorrente.Lacamentos.Infra.Mensageria.csproj.CopyComplete
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\obj\Debug\netstandard2.0\ContaCorrente.Lacamentos.Infra.Mensageria.dll
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\obj\Debug\netstandard2.0\ContaCorrente.Lacamentos.Infra.Mensageria.pdb

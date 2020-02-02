@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src",
+    "\\src\\ContaCorrente.Extrato"
   ],
-  "SelectedNode": "\\src\\ContaCorrente.Lacamentos",
+  "SelectedNode": "\\src\\ContaCorrente.Extrato\\Superdigital.ContaCorrente.Extrato.sln",
   "PreviewInSolutionExplorer": false
 }

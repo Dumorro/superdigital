@@ -1,0 +1,11 @@
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Aplicacao\bin\Debug\netstandard2.0\ContaCorrente.Lacamentos.Aplicacao.deps.json
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Aplicacao\bin\Debug\netstandard2.0\ContaCorrente.Lacamentos.Aplicacao.dll
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Aplicacao\bin\Debug\netstandard2.0\ContaCorrente.Lacamentos.Aplicacao.pdb
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Aplicacao\bin\Debug\netstandard2.0\ContaCorrente.Lacamentos.Dominio.dll
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Aplicacao\bin\Debug\netstandard2.0\ContaCorrente.Lacamentos.Dominio.pdb
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Aplicacao\obj\Debug\netstandard2.0\ContaCorrente.Lacamentos.Aplicacao.csprojAssemblyReference.cache
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Aplicacao\obj\Debug\netstandard2.0\ContaCorrente.Lacamentos.Aplicacao.AssemblyInfoInputs.cache
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Aplicacao\obj\Debug\netstandard2.0\ContaCorrente.Lacamentos.Aplicacao.AssemblyInfo.cs
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Aplicacao\obj\Debug\netstandard2.0\ContaCorrente.Lacamentos.Aplicacao.csproj.CopyComplete
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Aplicacao\obj\Debug\netstandard2.0\ContaCorrente.Lacamentos.Aplicacao.dll
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Lacamentos\ContaCorrente.Lacamentos.Aplicacao\obj\Debug\netstandard2.0\ContaCorrente.Lacamentos.Aplicacao.pdb

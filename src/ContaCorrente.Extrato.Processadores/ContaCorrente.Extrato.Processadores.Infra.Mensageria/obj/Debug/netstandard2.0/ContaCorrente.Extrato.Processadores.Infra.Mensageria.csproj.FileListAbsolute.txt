@@ -1,0 +1,8 @@
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Infra.Mensageria\bin\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Infra.Mensageria.deps.json
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Infra.Mensageria\bin\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Infra.Mensageria.dll
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Infra.Mensageria\bin\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Dominio.dll
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Infra.Mensageria\bin\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Dominio.pdb
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Infra.Mensageria\obj\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Infra.Mensageria.csprojAssemblyReference.cache
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Infra.Mensageria\obj\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Infra.Mensageria.AssemblyInfoInputs.cache
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Infra.Mensageria\obj\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Infra.Mensageria.AssemblyInfo.cs
+C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Infra.Mensageria\obj\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Infra.Mensageria.csproj.CopyComplete

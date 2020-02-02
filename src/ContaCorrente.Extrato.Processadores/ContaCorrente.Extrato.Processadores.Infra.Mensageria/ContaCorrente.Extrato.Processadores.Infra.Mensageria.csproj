@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <UserSecretsId>3eccae37-1569-42fa-9687-85ced8c20dba</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.ServiceBus" Version="4.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ContaCorrente.Extrato.Processadores.Dominio\ContaCorrente.Extrato.Processadores.Dominio.csproj" />
+  </ItemGroup>
+
+</Project>

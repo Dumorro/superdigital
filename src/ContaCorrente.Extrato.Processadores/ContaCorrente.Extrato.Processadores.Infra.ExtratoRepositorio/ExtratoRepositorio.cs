@@ -1,8 +1,6 @@
 ﻿using ContaCorrente.Extrato.Processadores.Dominio.Adaptadores;
 using ContaCorrente.Extrato.Processadores.Dominio.Entidade;
 using Dapper;
-using System.Data;
-using System.Threading.Tasks;
 
 namespace ContaCorrente.Extrato.Processadores.Infra.ExtratoRepositorio
 {
