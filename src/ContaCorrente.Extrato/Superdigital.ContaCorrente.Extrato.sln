@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaCorrente.Extrato.Aplic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaCorrente.Extrato.TestesDeUnidade", "ContaCorrente.Extrato.TestesDeUnidade\ContaCorrente.Extrato.TestesDeUnidade.csproj", "{F4D27259-3DD2-416D-A18C-6348CD1A953D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaCorrente.Extrato.Infra.CacheAdaptador", "ContaCorrente.Extrato.Infra.CacheAdaptador\ContaCorrente.Extrato.Infra.CacheAdaptador.csproj", "{4A3348D1-595F-4661-9D22-62B398B19325}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaCorrente.Extrato.Infra.RedisCacheAdaptador", "ContaCorrente.Extrato.Infra.CacheAdaptador\ContaCorrente.Extrato.Infra.RedisCacheAdaptador.csproj", "{4A3348D1-595F-4661-9D22-62B398B19325}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaCorrente.Extrato.Infra.ExtratoRepositorio", "ContaCorrente.Extrato.Infra.ExtratoRepositorio\ContaCorrente.Extrato.Infra.ExtratoRepositorio.csproj", "{3295BD7B-3D14-4C92-B35C-26E8A9711382}"
 EndProject

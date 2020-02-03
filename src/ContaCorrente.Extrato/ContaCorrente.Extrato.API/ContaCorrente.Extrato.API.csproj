@@ -16,7 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ContaCorrente.Extrato.Aplicacao\ContaCorrente.Extrato.Aplicacao.csproj" />
     <ProjectReference Include="..\ContaCorrente.Extrato.Dominio\ContaCorrente.Extrato.Dominio.csproj" />
-    <ProjectReference Include="..\ContaCorrente.Extrato.Infra.CacheAdaptador\ContaCorrente.Extrato.Infra.CacheAdaptador.csproj" />
+    <ProjectReference Include="..\ContaCorrente.Extrato.Infra.CacheAdaptador\ContaCorrente.Extrato.Infra.RedisCacheAdaptador.csproj" />
     <ProjectReference Include="..\ContaCorrente.Extrato.Infra.ExtratoRepositorio\ContaCorrente.Extrato.Infra.ExtratoRepositorio.csproj" />
   </ItemGroup>
 

@@ -5,13 +5,13 @@ using ContaCorrente.Extrato.Dominio.Entidades;
 using Microsoft.Extensions.Caching.Distributed;
 using Newtonsoft.Json;
 
-namespace ContaCorrente.Extrato.Infra.CacheAdaptador
+namespace ContaCorrente.Extrato.Infra.RedisCacheAdaptador
 {
-    public class CacheAdaptador : ICacheAdaptador
+    public class RedisCacheAdaptador : ICacheAdaptador
     {
         private readonly IDistributedCache _cache;
         private readonly DistributedCacheEntryOptions _opcoesDoCache;
-        public CacheAdaptador(IDistributedCache cache)
+        public RedisCacheAdaptador(IDistributedCache cache)
         {
             _cache = cache;
             _opcoesDoCache = new DistributedCacheEntryOptions();
