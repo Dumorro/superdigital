@@ -22,3 +22,5 @@ Testes de Unidade e Integração estão demonstrados nos projetos:
 * Alterar as strings de conexão dos arquivos de configuração dos projetos:  **ContaCorrente.Extrato.API** e **ContaCorrente.Extrato.Processadores**:
 -*/src/ContaCorrente.Extrato/ContaCorrente.Extrato.API/appsettings.json*
 -*/src/ContaCorrente.Extrato.Processadores/ContaCorrente.Extrato.Processadores/appsettings.json*
+
+As soluções possuem um Dockerfile na raiz do projeto API ou no Worker.
