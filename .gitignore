@@ -3,3 +3,7 @@
 ################################################################################
 
 /src/ContaCorrente.Extrato.Processadores/ContaCorrente.Extrato.Processadores/bin/Debug/netcoreapp2.2
+/src/ContaCorrente.Extrato.Processadores/ContaCorrente.Extrato.Processadores/obj/Container
+*.CopyComplete
+/src/ContaCorrente.Extrato.Processadores/ContaCorrente.Extrato.Processadores.Infra.Mensageria/bin/Debug/netstandard2.0
+/src/ContaCorrente.Extrato.Processadores/ContaCorrente.Extrato.Processadores.Infra.Mensageria/obj/Debug/netstandard2.0
