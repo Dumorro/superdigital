@@ -17,9 +17,7 @@ namespace ContaCorrente.Lacamentos.Api.ConfiguracoesDeInicializacao
              var conexaoServiceBus = configuration.GetValue<string>("ServiceBusConfig:ConnectionString");
             var nomeDaFila  = configuration.GetValue<string>("ServiceBusConfig:QueueName");
             services.AddSingleton(new DadosDeConfiguracaoDoServicoDeMensageria(conexaoServiceBus, nomeDaFila));
-
             services.AddScoped<IEnvioDeLacamentoEmContacorrente, EnvioDeLacamentoEmContacorrente>();
-
             services.AddScoped<IMensageriaAdaptador, MensageriaAdaptador>();
         }
     }

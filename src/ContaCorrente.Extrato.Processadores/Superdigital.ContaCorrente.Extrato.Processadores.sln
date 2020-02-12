@@ -13,9 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaCorrente.Extrato.Proce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaCorrente.Extrato.Processadores.Infra.ExtratoRepositorio", "ContaCorrente.Extrato.Processadores.Infra.ExtratoRepositorio\ContaCorrente.Extrato.Processadores.Infra.ExtratoRepositorio.csproj", "{621B6209-7F27-4FA6-9384-BEB292ADB54C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaCorrente.Extrato.Processadores.Infra.ServicoDeFilaAdaptador", "ContaCorrente.Extrato.Processadores.Infra.ServicoDeFilaAdaptador\ContaCorrente.Extrato.Processadores.Infra.ServicoDeFilaAdaptador.csproj", "{8D1219AD-A154-4600-9AB6-4CF2F2EB463C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaCorrente.Extrato.Processadores.Infra.Mensageria", "ContaCorrente.Extrato.Processadores.Infra.Mensageria\ContaCorrente.Extrato.Processadores.Infra.Mensageria.csproj", "{4FCFCF91-7BA3-492D-B174-F7E95C2B30CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaCorrente.Extrato.Processadores.Infra.Mensageria", "ContaCorrente.Extrato.Processadores.Infra.Mensageria\ContaCorrente.Extrato.Processadores.Infra.Mensageria.csproj", "{4FCFCF91-7BA3-492D-B174-F7E95C2B30CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +33,6 @@ Global
 		{621B6209-7F27-4FA6-9384-BEB292ADB54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{621B6209-7F27-4FA6-9384-BEB292ADB54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{621B6209-7F27-4FA6-9384-BEB292ADB54C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8D1219AD-A154-4600-9AB6-4CF2F2EB463C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D1219AD-A154-4600-9AB6-4CF2F2EB463C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D1219AD-A154-4600-9AB6-4CF2F2EB463C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D1219AD-A154-4600-9AB6-4CF2F2EB463C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4FCFCF91-7BA3-492D-B174-F7E95C2B30CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4FCFCF91-7BA3-492D-B174-F7E95C2B30CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FCFCF91-7BA3-492D-B174-F7E95C2B30CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -50,7 +44,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{2B5BEF28-1ADA-4FE1-94FF-52BB6A8DA71E} = {D298A5B7-C503-4F84-A237-BFD0568BE44E}
 		{621B6209-7F27-4FA6-9384-BEB292ADB54C} = {E3669420-BB66-47CC-A75F-AE48E39B5BE8}
-		{8D1219AD-A154-4600-9AB6-4CF2F2EB463C} = {E3669420-BB66-47CC-A75F-AE48E39B5BE8}
 		{4FCFCF91-7BA3-492D-B174-F7E95C2B30CE} = {E3669420-BB66-47CC-A75F-AE48E39B5BE8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution

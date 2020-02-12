@@ -1,7 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using ContaCorrente.Extrato.Processadores.ConfiguracoesDeInicializacao;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
@@ -18,6 +15,7 @@ namespace ContaCorrente.Extrato.Processadores
             Host.CreateDefaultBuilder(args)
                 .ConfigureServices((hostContext, services) =>
                 {
+                    ConfiguracaoDeIoC.ConfigurarServicos(services, hostContext.Configuration);
                     services.AddHostedService<Worker>();
                 });
     }

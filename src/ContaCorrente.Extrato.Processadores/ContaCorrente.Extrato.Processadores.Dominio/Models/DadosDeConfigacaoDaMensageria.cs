@@ -1,4 +1,4 @@
-﻿namespace ContaCorrente.Extrato.Processadores.ConfiguracoesDeInicializacao
+﻿namespace ContaCorrente.Extrato.Processadores.Dominio.Models
 {
     public class DadosDeConfigacaoDaMensageria
     {

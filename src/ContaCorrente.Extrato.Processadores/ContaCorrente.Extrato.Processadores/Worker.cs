@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
+using ContaCorrente.Extrato.Processadores.Dominio.Adaptadores;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
@@ -12,9 +13,10 @@ namespace ContaCorrente.Extrato.Processadores
     {
         private readonly ILogger<Worker> _logger;
 
-        public Worker(ILogger<Worker> logger)
+        public Worker(ILogger<Worker> logger, IServiceBusAdaptador serviceBusAdaptador)
         {
             _logger = logger;
+            serviceBusAdaptador.ProcessarMensagens();
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)

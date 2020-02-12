@@ -26,10 +26,22 @@ namespace ContaCorrente.Lacamentos.TestesDeIntegracao
                 ContaOrigem = "050050527",
                 Data = DateTime.Now,
                 Tipo = 1,
-                Valor = 550.00
+                Valor = DateTime.Now.Minute+500
             };
             var conteudo = new StringContent(JsonConvert.SerializeObject(lancamento), Encoding.UTF8, "application/json");
             var resultado = await _contextoDeTeste.Client.PostAsync(recurso, conteudo);
+            var lancamento2 = new LancamentoDto()
+            {
+                IdCliente = Guid.NewGuid(),
+                ContaDestino = "050058454",
+                ContaOrigem = "050050527",
+                Data = DateTime.Now,
+                Tipo = 1,
+                Valor = DateTime.Now.Minute + 500
+            };
+            var conteudo2 = new StringContent(JsonConvert.SerializeObject(lancamento2), Encoding.UTF8, "application/json");
+            var resultado2 = await _contextoDeTeste.Client.PostAsync(recurso, conteudo2);
+
 
             resultado.StatusCode.Should().Be(HttpStatusCode.OK);
         }
