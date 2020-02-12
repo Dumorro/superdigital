@@ -10,7 +10,7 @@ namespace ContaCorrente.Extrato.Processadores.Infra.Mensageria
         public readonly TopicClient _topicClient;
         public ServiceBusAdaptador()
         {
-            _topicClient = new TopicClient()
+            _topicClient = new TopicClient();
         }
 
         public Task EnviarMensagem(Mensagem mensagem)

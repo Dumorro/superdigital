@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "ContaCorrente.Extrato.Processador": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

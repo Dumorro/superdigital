@@ -14,7 +14,7 @@ namespace ContaCorrente.Lacamentos.Infra.Mensageria
         {
             _queueClient = new QueueClient(configuracao.Conexao, configuracao.NomeDaFila);
         }
-
+        
         public async Task Send(Mensagem mensagem)
         {
             string data = JsonConvert.SerializeObject(mensagem);

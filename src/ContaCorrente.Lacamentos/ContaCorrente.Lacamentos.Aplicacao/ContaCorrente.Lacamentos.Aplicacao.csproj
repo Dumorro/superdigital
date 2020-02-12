@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -6,6 +6,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ContaCorrente.Lacamentos.Dominio\ContaCorrente.Lacamentos.Dominio.csproj" />
+    <PackageReference Include="MassTransit" Version="5.5.5" />
+    <PackageReference Include="MassTransit.Azure.ServiceBus.Core" Version="5.5.5" />
+    <PackageReference Include="MassTransit.Extensions.DependencyInjection" Version="5.5.5" />
   </ItemGroup>
 
 </Project>

@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaCorrente.Lacamentos.Te
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaCorrente.Lacamentos.Aplicacao", "ContaCorrente.Lacamentos.Aplicacao\ContaCorrente.Lacamentos.Aplicacao.csproj", "{3E382725-56B7-4575-97FC-5874C2D4DD45}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaCorrente.Lacamentos.Infra.Mensageria", "ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\ContaCorrente.Lacamentos.Infra.Mensageria.csproj", "{C247325D-B9FA-42EB-9BDE-CAE180D17D11}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{3E382725-56B7-4575-97FC-5874C2D4DD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E382725-56B7-4575-97FC-5874C2D4DD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E382725-56B7-4575-97FC-5874C2D4DD45}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C247325D-B9FA-42EB-9BDE-CAE180D17D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C247325D-B9FA-42EB-9BDE-CAE180D17D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C247325D-B9FA-42EB-9BDE-CAE180D17D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C247325D-B9FA-42EB-9BDE-CAE180D17D11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

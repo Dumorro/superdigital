@@ -14,7 +14,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ContaCorrente.Lacamentos.Aplicacao\ContaCorrente.Lacamentos.Aplicacao.csproj" />
-    <ProjectReference Include="..\ContaCorrente.Lacamentos.Infra.MensageriaAdaptador\ContaCorrente.Lacamentos.Infra.Mensageria.csproj" />
   </ItemGroup>
 
 </Project>
