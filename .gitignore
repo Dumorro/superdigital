@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/ContaCorrente.Extrato.Processadores/ContaCorrente.Extrato.Processadores/bin/Debug/netcoreapp2.2
+/src/ContaCorrente.Extrato.Processadores/ContaCorrente.Extrato.Processadores.Aplicacao/bin/Debug/netstandard2.0
+/src/ContaCorrente.Extrato.Processadores/ContaCorrente.Extrato.Processadores.Aplicacao/obj/Debug/netstandard2.0
+/src/ContaCorrente.Extrato.Processadores/ContaCorrente.Extrato.Processadores.Aplicacao/obj/Release/netstandard2.0
+/src/ContaCorrente.Extrato.Processadores/ContaCorrente.Extrato.Processadores.Aplicacao/obj
+/src/ContaCorrente.Extrato.Processadores/ContaCorrente.Extrato.Processadores.Dominio/obj/Release/netstandard2.0
+/src/ContaCorrente.Lacamentos/ContaCorrente.Lacamentos/obj/Container
+/src/ContaCorrente.Lacamentos/ContaCorrente.Lacamentos.Dominio/obj/Release/netstandard2.0
