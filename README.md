@@ -1,9 +1,9 @@
 #### Proposta arquitetural
 
 A solução é dividida em 3 projetos, 2 API's e um Service Worker.
-API de consulta do Extrato.
-API para envio dos Lançamentos da Conta para para a fila de mensageria para processamento com consistência eventual.
-Service Worker para processamento das mensagens e atualização do DB.
+*API de consulta do Extrato.
+*API para envio dos Lançamentos da Conta para para a fila de mensageria para processamento com consistência eventual.
+*Service Worker para processamento das mensagens e atualização do DB.
 
 A proposta é apresentar uma estrura com implementação simples, afim de passar de maneira mais abrangente pelos pontos solicitados no teste. (DDD, SOLID, Testes de Unidade e Integração).
 
