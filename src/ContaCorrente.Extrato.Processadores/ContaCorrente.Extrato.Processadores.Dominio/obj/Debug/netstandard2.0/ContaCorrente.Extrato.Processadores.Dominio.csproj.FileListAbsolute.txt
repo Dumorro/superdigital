@@ -1,7 +1,0 @@
-C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Dominio\bin\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Dominio.deps.json
-C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Dominio\bin\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Dominio.dll
-C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Dominio\bin\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Dominio.pdb
-C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Dominio\obj\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Dominio.AssemblyInfoInputs.cache
-C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Dominio\obj\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Dominio.AssemblyInfo.cs
-C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Dominio\obj\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Dominio.dll
-C:\Dev\Repos\Estudo\superdigital\src\ContaCorrente.Extrato.Processadores\ContaCorrente.Extrato.Processadores.Dominio\obj\Debug\netstandard2.0\ContaCorrente.Extrato.Processadores.Dominio.pdb
